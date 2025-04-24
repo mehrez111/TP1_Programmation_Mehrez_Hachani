@@ -1,0 +1,11 @@
+pomme
+chat
+banane
+zèbre
+chien
+arbre
+éléphant
+lion
+tigre
+chat
+pomme
